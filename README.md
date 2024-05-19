@@ -1,0 +1,4 @@
+#find()
+#findIndex()
+#some()
+#every()
